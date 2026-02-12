@@ -1,0 +1,5 @@
+# Migration Name Suggestion
+
+Enter: `init`
+
+This will create the initial database schema with User and Task tables.
